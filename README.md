@@ -1,18 +1,33 @@
-[LP1]: https://foo
-[LP2]: https://bar
+[Module1]: https://learn.microsoft.com/en-us/training/modules/develop-ai-agents-azure-vs-code/
+[Module2]: https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/
+[Module3]: https://learn.microsoft.com/en-us/training/modules/connect-agent-to-mcp-tools/
+[Module4]: https://learn.microsoft.com/en-us/training/modules/introduction-foundry-iq/
+[Module5]: https://learn.microsoft.com/en-us/training/modules/integrate-foundry-agent-with-m365/
+[Module6]: https://learn.microsoft.com/en-us/training/modules/build-agent-workflows-microsoft-foundry/
+[Module7]: https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/
+[Module8]: https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/
+[Module9]: https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/
 
 # AZ-000 Azure foo bar
 
 ## Learning Paths 🚀
 
-- Learning Path 1️: [Azure foo][LP1]
-- Learning Path 2️: [Azure bar][LP2]
+- Module 1️: [Develop AI agents with Microsoft Foundry and Visual Studio Code][Module1]
+- Module 2: [Integrate custom tools into your agent][Module2]
+- Module 3: [Integrate MCP Tools with Azure AI Agents][Module3]
+- Module 4: [Build knowledge-enhanced AI agents with Foundry IQ][Module4]
+- Module 5: [Integrate your agent with Microsoft 365][Module5]
+- Module 6: [Build agent-driven workflows using Microsoft Foundry][Module6]
+- Module 7: [Develop an AI agent with Microsoft Agent Framework][Module7]
+- Module 8: [Orchestrate a multi-agent solution using the Microsoft Agent Framework][Module8]
+- Module 9: [Discover Azure AI Agents with A2A][Module9]
 
 
 ## Labs 🛠️
 
+[Lab environment Skillable](https://experteach.learnondemand.net/) 
+
 <!-- 
-[Lab environment Skillable](https://alh.learnondemand.net/) 
 [Lab environment Skillable](https://brainymotion.learnondemand.net/)
 [Lab environment Skillable](https://gknetherlands.learnondemand.net)
 
@@ -22,23 +37,23 @@
 [Lab environment Go Deploy](https://lms.godeploy.it)
 -->
 
-[GitHub Repo Microsoft Learn](https://github.com/foo)
+<br>
 
-[Optional: Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/foo)
+[GitHub Repo Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-agents/)
+
+[Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/mslearn-ai-agents/)
 
 <br>
 
 
-## Certification 🏅
+## Certifications 🏅
 
-|   |   |
-| - | - |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-fundamentals-badge.svg" width="100"/> | [Microsoft Certified: Fundamentals](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg"    width="100"/> | [Microsoft Certified: Associate](https://) |
-| <img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-expert-badge.svg"       width="100"/> | [Microsoft Certified: Expert](https://) |
+* [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) (AI-901)
+* [Microsoft Certified: Azure AI Cloud Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-cloud-developer-associate/) (AI-200)
+* [Microsoft Certified: Cloud and AI Security Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/cloud-and-ai-security-engineer-associate/) (SC-500)
+* [Microsoft Certified: Multi-Agent AI Solutions Expert (beta)](https://learn.microsoft.com/en-us/credentials/certifications/multi-agent-ai-solutions-expert/) (AI-500)
 
-
-[Practice Assessment](https://)
+➡️ [Train Cert Poster](https://aka.ms/traincertposter) ⬅️
 
 <br>
 
@@ -74,6 +89,26 @@
 <br>
 
 ## Microsoft Documentation Landing Pages 📲
+
+[Microsoft Foundry documentation](https://learn.microsoft.com/en-us/azure/foundry/)
+
+[Microsoft Foundry Classic documentation](https://learn.microsoft.com/en-us/azure/foundry-classic/)
+
+[microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit/tree/main)
+
+[Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
+
+[Official Microsoft Learn MCP Server and CLI tool](https://github.com/microsoftdocs/mcp)
+
+[Azure Language in Foundry Tools documentation](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
+
+[Speech-to-Text Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text)
+
+[Text-to-Speech Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-text-to-speech)
+
+[The Speech CLI](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-basics?tabs=windowsinstall%2Cpowershell)
 
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
