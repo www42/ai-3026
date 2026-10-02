@@ -10,7 +10,9 @@
 
 # AI-3026 Develop AI agents on Azure
 
-## Learning Paths 🚀
+## Learning Path 🚀
+
+[Develop AI Agents on Azure](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure/)
 
 - Module 1️: [Develop AI agents with Microsoft Foundry and Visual Studio Code][Module1]
 - Module 2: [Integrate custom tools into your agent][Module2]
@@ -22,6 +24,7 @@
 - Module 8: [Orchestrate a multi-agent solution using the Microsoft Agent Framework][Module8]
 - Module 9: [Discover Azure AI Agents with A2A][Module9]
 
+<br>
 
 ## Labs 🛠️
 
