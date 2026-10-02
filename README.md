@@ -8,7 +8,7 @@
 [Module8]: https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/
 [Module9]: https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/
 
-# AZ-000 Azure foo bar
+# AI-3026 Develop AI agents on Azure
 
 ## Learning Paths 🚀
 
@@ -188,4 +188,5 @@
 
 ---
 
-[Top](#az-000-azure-foo-bar)
+[Top](#ai-3026-develop-ai-agents-on-azure)
+
