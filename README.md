@@ -40,8 +40,6 @@
 [Lab environment Go Deploy](https://lms.godeploy.it)
 -->
 
-<br>
-
 [GitHub Repo Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-agents/)
 
 [Lab Instructions step by step (HTML)](https://microsoftlearning.github.io/mslearn-ai-agents/)
